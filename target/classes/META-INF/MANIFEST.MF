@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: crudbk
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dsza
+Implementation-Vendor-Id: com.douglas.example
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/crudbk
+Created-By: Maven Integration for Eclipse
+
